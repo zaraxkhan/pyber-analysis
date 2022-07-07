@@ -6,13 +6,13 @@ PyBer, a ride-sharing app company, needs help in improving access to ride-sharin
 
 ## Results
 From the analysis, these key metrics highlighted some disparities amoung the different city types.
-
+### Figure 1: PyBer Summary based on City Type
 ![weekly_table](https://user-images.githubusercontent.com/105755095/177876038-8f3bb587-7167-4b6e-9416-fd4e366430dc.png)
 
 From this table, we can see that the Urban cities request the largest share of rides and account for the highest number of drivers. Due to this , the average fare per ride is the lowest at $24.53 and accounts for the most profitablity at $39.854.38 in 4 months. The Rural cities bring in the least amount of profit at only $4,327.93 in 4 months. That is averaging only around $1,000 per month. Not only are the Rural cities making the lowest amount of profits, the drivers are being paid the highest amount; significantly higher than their Urban driver counterparts. Rural city passengers also pay the highest amount, however this makes sense as the distance they travel is most-likely greater than those in Urban cities. 
 
 Below is a line graph to help better visualize the total fare per city type at a weekly basis. 
-
+### Figure 2: Line Graph of Weekly Total Fare by City Type 
 ![week_summary](https://user-images.githubusercontent.com/105755095/177877945-f7473c1b-c0bc-442c-bb23-9b5b49f052e5.png)
 
 This line graph . There is more profit spikes in Urban cities that aren't seen for Rural cities. 
