@@ -15,7 +15,15 @@ Below is a line graph to help better visualize the total fare per city type at a
 ### Figure 2: Line Graph of Weekly Total Fare by City Type 
 ![week_summary](https://user-images.githubusercontent.com/105755095/177877945-f7473c1b-c0bc-442c-bb23-9b5b49f052e5.png)
 
-This line graph clearly pictures the weekly fare earnings by city type. The Urban cities, just as stated previously when looking at the chart, makes the greatest amount of money compared to Suburban and Rural cities. Besides a few weeks, it seems as though each city type follows its own trend . There is more profit spikes in Urban cities that aren't seen for Rural cities. 
+This line graph clearly pictures the weekly fare earnings by city type. The Urban cities, just as stated previously when looking at the chart, makes the greatest amount of money compared to Suburban and Rural cities. Besides a few weeks, it seems as though each city type follows its own trend . There is more profit spikes in Urban cities that aren't seen for Rural cities.
+
+### Figure 3: Pie Chart of the Percent of Total Drivers by City Type
+![Fig7](https://user-images.githubusercontent.com/105755095/177904196-f5966ff5-8824-42a9-ac1c-111e3d8d7f1f.png)
+
+### Figure 4: Pie Chart of the Percent of Total Fares by City Type
+![Fig5](https://user-images.githubusercontent.com/105755095/177904230-c65aea5c-103a-4610-a586-7702bf6793f5.png)
+
+From these pie charts we can see that there are very many Urban drivers compared to the other city types. This takes us to Figure 4, where it shows that about 1/3 pf the profit comes from Suburban cities, however Figure 3's data does not show the driver percent correlating with those numbers. We can conclude from this that there are way too many drivers in the Urban cities that should be distributed amongst the other city types. 
 
 ## Summary
 From these results, we can see that Urban cities are the focus for earnings. Rural cities are barely bringing in $500 weekly for the company however, are the most profitable places for the drivers. We can also see from the chart that there way more drivers than riders in Urban cities that need to be taken care of. Below are some recommendations regarding this data set. 
